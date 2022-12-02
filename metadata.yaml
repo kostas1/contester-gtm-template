@@ -15,5 +15,5 @@
 homepage: "https://contester.net"
 documentation: ""
 versions:
-  - sha: 5f02a788b90ae804f86b04aa24af8937e567874a
+  - sha: e83965da88e570626c0b290263ded1637be3b9c1
     changeNotes: Initial Version
