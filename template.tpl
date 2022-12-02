@@ -14,6 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Contester Widget",
+  "categories": ["ADVERTISING", "AFFILIATE_MARKETING", "EXPERIMENTATION", "LEAD_GENERATION", "MARKETING"],
   "brand": {
     "id": "brand_dummy",
     "displayName": ""
